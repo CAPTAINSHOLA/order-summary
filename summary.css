@@ -1,0 +1,99 @@
+body{
+  background-image: url('curved background.svg');
+  background-repeat: ;
+  text-align: center;
+}
+p{
+  color: grey;
+  line-height: 25px;
+
+}
+h4{
+  color: grey;
+}
+h4:hover{
+  color: black;
+}
+
+fieldset{
+  width: 400px;
+  background-color: white;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: none;
+  margin-top: 20px;
+}
+.web{
+  margin-left: -12px;
+  margin-top:-7px;
+  margin-right: -12px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.section{
+  background-color:
+}
+
+.payment{
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 5px 75px 5px 75px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  box-shadow: 10px 10px 15px grey;
+
+}
+.payment:hover{
+  background-color:#1e90ff;
+}
+
+
+.icon{
+  display: flex;
+  background-color: #e0ffff;
+  width: 400px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.svg{
+  margin-left: 50px;
+}
+.plan{
+  margin-left: 12px;
+  margin-top: 2px;
+}
+.change{
+  margin-top: 18px;
+  margin-left: 75px;
+  color: blue;
+}
+.change:hover{
+  color: #000080;
+}
+.year{
+  margin-top: 25px;
+  margin-left: -225px
+}
+@media (max-width:468px){
+body{
+  background-image: url('curved background.svg');
+  background-repeat: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
